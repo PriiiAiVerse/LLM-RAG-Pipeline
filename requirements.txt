@@ -1,0 +1,22 @@
+# Core Scientific Libraries
+numpy
+pandas
+matplotlib
+
+# Machine Learning and Deep Learning
+torch
+transformers
+sentence-transformers
+spacy
+
+# Utility Libraries
+tqdm
+requests
+huggingface_hub
+
+# PDF Handling (PyMuPDF)
+fitz  # part of PyMuPDF package
+
+# Note:
+# It's good practice to use a virtual environment and freeze exact versions using:
+# pip freeze > requirements.txt
